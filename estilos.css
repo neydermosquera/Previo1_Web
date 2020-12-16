@@ -1,0 +1,12 @@
+tr.titulos {
+
+    background-color: rgb(60, 101, 139);
+    color:white;
+}
+tr{
+    background-color: rgb(121, 122, 126);
+    color: white;
+    border: white 2px solid;
+    border-collapse: collapse;
+    
+}
