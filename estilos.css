@@ -15,12 +15,13 @@ tr{
     
 }
 
+.icono {
+    color: black;
+}
+
 .editar {
     color: orange
 }
-
-
-
 
 table{
     margin: auto;
@@ -28,9 +29,9 @@ table{
    
 }
 
-
 p {
     color: grey;
     font-size: small;
 }
+
 
